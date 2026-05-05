@@ -53,5 +53,11 @@ Atualmente cursando o [2º] período de [Analise e desenvolvimento de sistemas] 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `[root](https://manus.im/app-preview/SgfStug3A8W5BtmaHkpMtg?sessionId=1p88VfQzmm7NOcmr64D4X1)/
+- `/RPG Session Master/ descrição do problema que ele resolve:  ele une as pessoas que gostam de rpg de mesa
+- Tecnologias utilizadas : MAnus a.i
+- Instruções de instalação (passo a passo):acesse o link, baixe o aplicativo expo go no celular  para poder ter acesso ao app  RPG Session Master e pronto entre no site
+ 
+
+
+  
