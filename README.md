@@ -67,14 +67,14 @@ Sou um entusiasta de tecnologia focado em engenharia de sistemas e desenvolvimen
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM1 - corrida do Prompt** | Engenharia de Instrução (Prompt Engineering) | 02/03 | https://github.com/anab1231/A_corrida_do_Prompt ✅ Concluído 
-| **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | https://github.com/anab1231/Laborat-rio-de-Classifica-o-Visual/blob/main/README.md ✅ Concluído |
-| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | https://github.com/anab1231/SM3---Batalha-de-Modelos-Engenharia-de-Prompt-XML-/blob/main/README.md ✅ Concluído |
-| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | https://github.com/anab1231/SM4---Engenharia-Reversa/blob/main/README.md ✅ Concluído |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | https://github.com/anab1231/projeto-markneural/blob/main/README.md ✅ Concluído |
-| **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 | https://github.com/anab1231/SM7---Engenharia-de-Software-e-IA-com-Bubble.io ✅ Concluído |
-| **SM8** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | [github.com/anab1231/videoaula-app](https://github.com/anab1231/videoaula-app/tree/main)  ✅ Concluído 
-| **SM9** | **Composição Musical Assistida por Inteligência Artificial** | 11/05 | [github.com/anab1231/projeto-musica-ia](https://github.com/anab1231/projeto-musica-ia)  ✅ Concluído
+| **SM1 - corrida do Prompt** | Engenharia de Instrução (Prompt Engineering) | 02/03 | 
+| **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 |
+| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | 
+| **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. 
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. 
+| **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 |
+| **SM8** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | 
+| **SM9** | **Composição Musical Assistida por Inteligência Artificial** | 11/05 | 
 
 
 ### 🏗 Estrutura do Repositório
