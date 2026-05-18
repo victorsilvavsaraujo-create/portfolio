@@ -69,7 +69,7 @@ Sou um entusiasta de tecnologia focado em engenharia de sistemas e desenvolvimen
 | :--- | :--- | :---: | :--- |
 | **SM1 - corrida do Prompt** | Engenharia de Instrução (Prompt Engineering) | 02/03 | 
 | **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 |
-| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | 
+| **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | https://github.com/victorsilvavsaraujo-create/SM3---Batalha-de-Modelos-Engenharia-de-Prompt-XML-
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. 
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. 
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 |
