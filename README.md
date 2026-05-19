@@ -73,7 +73,7 @@ Sou um entusiasta de tecnologia focado em engenharia de sistemas e desenvolvimen
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software| 31/03 |https://github.com/victorsilvavsaraujo-create/laboratorio-de-classifica-o-visual
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07/04 |https://github.com/victorsilvavsaraujo-create/SM5---Do-Clone-ao-Produto-M-nimo-Vi-vel-MVP-
 \| **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 |https://github.com/victorsilvavsaraujo-create/SM6---Engenharia-de-Software-e-IA-com-Bubble.io
-| **SM8** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | 
+| **SM8** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | https://github.com/victorsilvavsaraujo-create/SM7---Desenvolvimento-de-App-de-Videoconfer-ncia-com-Manus-AI-e-Jitsi/blob/main/README.md
 | **SM9** | **Composição Musical Assistida por Inteligência Artificial** | 11/05 | 
 
 
